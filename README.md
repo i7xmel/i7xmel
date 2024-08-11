@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning Enthusiast<br>Artificial Intelligence engineer
+Machine Learning Enthusiast<br>Artificial Intelligence Engineer
 
 
 ## 🌐 Socials:
