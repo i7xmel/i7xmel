@@ -1,4 +1,4 @@
-# About Me:
+#  About Me:
 Hi, I'm Ismail<br><br>AI & Machine Learning Engineer | Building Intelligent Systems<br><br>I'm passionate about creating real-world AI solutions that combine<br>machine learning, deep learning, and modern software development.<br>I enjoy transforming complex problems into smart, scalable, and impactful systems.
 
 
@@ -18,4 +18,6 @@ Hi, I'm Ismail<br><br>AI & Machine Learning Engineer | Building Intelligent Syst
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=i7xmel&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=i7xmel&icon=0&color=12)](https://visitcount.itsvg.in)
+
