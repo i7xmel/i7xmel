@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Ismail<br><br>AI & Machine Learning Engineer | Building Intelligent Systems<br><br>I'm passionate about creating real-world AI solutions that combine<br>machine learning, deep learning, and modern software development.<br>I enjoy transforming complex problems into smart, scalable, and impactful systems.
 
 
