@@ -15,8 +15,6 @@ Hi, I'm Ismail<br><br>AI & Machine Learning Engineer | Building Intelligent Syst
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=i7xmel&theme=github_dark_dimmed)
 
 ---
 
