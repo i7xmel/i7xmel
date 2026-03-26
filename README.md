@@ -1,5 +1,6 @@
 #  About Me:
-Hi, I'm Ismail<br><br>AI & Machine Learning Engineer | Building Intelligent Systems<br><br>I'm passionate about creating real-world AI solutions that combine<br>machine learning, deep learning, and modern software development.<br>I enjoy transforming complex problems into smart, scalable, and impactful systems.
+Hi, I'm Ismail<br><br>AI & Machine Learning Engineer | Building Intelligent Systems<br><br>I'm passionate about creating real-world AI solutions using machine learning, deep learning, and modern software development.<br>I enjoy turning complex problems into smart, scalable, and impactful systems.<br><br>I’m also familiar with LLMs, RAG, fine-tuning, AI agents, and ML models, along with frameworks like LangChain and LangGraph, and automation tools such as Zapier.
+
   
 
 ## 🌐 Socials:
